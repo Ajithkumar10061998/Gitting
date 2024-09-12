@@ -10,4 +10,14 @@ public class Gitter {
 	private void gitThree() {
 		System.out.println("THREE");
 	}
+	private void gitFour() {
+		System.out.println("Four");
+	}
+	private void gitFive() {
+		System.out.println("Five");
+	}
+	private void gitSix() {
+		System.out.println("Six");
+	}
+	
 }
