@@ -19,5 +19,10 @@ public class Gitter {
 	private void gitSix() {
 		System.out.println("Six");
 	}
-	
+	private void gitNine() {
+		System.out.println("Nine");
+	}
+	private void gitTen() {
+		System.out.println("Ten");
+	}
 }
