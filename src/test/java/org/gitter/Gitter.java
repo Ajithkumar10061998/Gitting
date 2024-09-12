@@ -25,4 +25,10 @@ public class Gitter {
 	private void gitEight() {
 		System.out.println("Eight");
 	}
+	private void gitNine() {
+		System.out.println("Nine");
+	}
+	private void gitTen() {
+		System.out.println("Ten");
+	}
 }
